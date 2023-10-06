@@ -12,4 +12,4 @@ Pagina de Facebook: https://www.facebook.com/profile.php?id=100093819283109&mibe
 
 En la página de Facebook anteriormente arriba mencionado se encuentra la explicación sobre el principio de funcionamiento del proyecto, el circuito de conexión, diagramas, como asi también enlaces a librerías necesarias dependiendo el caso.
 
-### ¡ Saludos !
+### ¡ Saludos y síguenos!
